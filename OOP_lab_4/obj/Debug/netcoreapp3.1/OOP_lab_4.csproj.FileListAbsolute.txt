@@ -1,0 +1,13 @@
+C:\Users\Виктория\Desktop\ооп\OOP_Lab_4\OOP_lab_4\OOP_lab_4\bin\Debug\netcoreapp3.1\OOP_lab_4.exe
+C:\Users\Виктория\Desktop\ооп\OOP_Lab_4\OOP_lab_4\OOP_lab_4\bin\Debug\netcoreapp3.1\OOP_lab_4.deps.json
+C:\Users\Виктория\Desktop\ооп\OOP_Lab_4\OOP_lab_4\OOP_lab_4\bin\Debug\netcoreapp3.1\OOP_lab_4.runtimeconfig.json
+C:\Users\Виктория\Desktop\ооп\OOP_Lab_4\OOP_lab_4\OOP_lab_4\bin\Debug\netcoreapp3.1\OOP_lab_4.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\ооп\OOP_Lab_4\OOP_lab_4\OOP_lab_4\bin\Debug\netcoreapp3.1\OOP_lab_4.dll
+C:\Users\Виктория\Desktop\ооп\OOP_Lab_4\OOP_lab_4\OOP_lab_4\bin\Debug\netcoreapp3.1\OOP_lab_4.pdb
+C:\Users\Виктория\Desktop\ооп\OOP_Lab_4\OOP_lab_4\OOP_lab_4\obj\Debug\netcoreapp3.1\OOP_lab_4.csprojAssemblyReference.cache
+C:\Users\Виктория\Desktop\ооп\OOP_Lab_4\OOP_lab_4\OOP_lab_4\obj\Debug\netcoreapp3.1\OOP_lab_4.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\ооп\OOP_Lab_4\OOP_lab_4\OOP_lab_4\obj\Debug\netcoreapp3.1\OOP_lab_4.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\ооп\OOP_Lab_4\OOP_lab_4\OOP_lab_4\obj\Debug\netcoreapp3.1\OOP_lab_4.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\ооп\OOP_Lab_4\OOP_lab_4\OOP_lab_4\obj\Debug\netcoreapp3.1\OOP_lab_4.dll
+C:\Users\Виктория\Desktop\ооп\OOP_Lab_4\OOP_lab_4\OOP_lab_4\obj\Debug\netcoreapp3.1\OOP_lab_4.pdb
+C:\Users\Виктория\Desktop\ооп\OOP_Lab_4\OOP_lab_4\OOP_lab_4\obj\Debug\netcoreapp3.1\OOP_lab_4.genruntimeconfig.cache
